@@ -1,0 +1,6 @@
+name: TDD
+channels:
+  - defaults
+dependencies:
+  - python=3.11  #meine bevorzugte Python-Version
+  - pytest     # Pytest für das Testen
