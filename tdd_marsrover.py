@@ -1,5 +1,6 @@
 # according to:
 # https://github.com/technicalagilecoach/RemoteTDDPracticeGroup/blob/main/20240116-Softwaredesign_mit_Bottom-up-TDD/mars_rover.cpp
+# https://kata-log.rocks/images/mars_rover.jpg
 
 
 import unittest
